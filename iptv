@@ -14,6 +14,8 @@ acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-language="Romania" tvg-logo="https://img.favpng.com/21/20/21/discovery-channel-logo-television-channel-discovery-networks-emea-png-favpng-u2KKJPqtnCuh93QuTJrcy5m7D.jpg" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Discovery Channel
 acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",National Geographic Wild
+acestream://6ffc5e411cb3054daa816592b28c1dff542848d8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",National Geographic Wild HD
 acestream://e53e81a7655624ecbf2859d851d426a449fadcc0
 #EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Crime & Investigation
 acestream://a46bdc1273d5a3004fca1a11e7b39b76c81d64c5
