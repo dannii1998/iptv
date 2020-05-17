@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 channel-id="AXN-RO" tvg-name="AXN-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN HD
+acestream://0c47eb2e34b5a0d95fef8ae350d2edf7789f7557
+#EXTINF:-1 channel-id="AXN Black-RO" tvg-name="AXN Black-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN Black
+acestream://9eeda5af37048ad1c5da3a49d80581eb86c155d0
+#EXTINF:-1 channel-id="AXN Spin-RO" tvg-name="AXN Spin-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN Spin
+acestream://b11f9be4a0d033fedab04bd4a7d141f886f0479e
+#EXTINF:-1 channel-id="AXN White-RO" tvg-name="AXN White-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN White
+acestream://4aee337d80adca1e5a344fcf71c26d0f19756695
