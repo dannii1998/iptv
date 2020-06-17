@@ -2,23 +2,21 @@
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Investigation Discovery
 acestream://abc847821d3f7c1a8ae19668aec5e01967e23e28
 #EXTINF:-1 tvg-id="" tvg-name="Film Cafe" tvg-language="Romania" tvg-logo="https://ewsat.com/img/FILM_CAFE.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Film Cafe
-acestream://a1f1cbaf8339d8ec1a6b01daf6c4e3832aac8c24
+acestream://71fcd3086d7f8b426c1f3ca568e84dfeb38e2de1
 #EXTINF:-1 tvg-id="" tvg-name="Diva Universal" tvg-language="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtazYm-ffh83aMcKuCQCL519YMdv7gN37ssleVgeI1EpqWU8X-&s" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Diva Universal
-acestream://1be325e0c93d2c9e22fb2007f668d9dd7ef1b281
+acestream://bd595614e418f216b012bd1868c9085e96a48211
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Cinemax
-acestream://34b1402557fb7faab2979361c4e9650fa0948724
+acestream://8584e54cad13b9310b7a1f59a482eb1ce0a413a7
 #EXTINF:-1 tvg-id="" tvg-name="Film Box" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/ee/Filmbox_HD_Logo.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Film Box
 acestream://4c09439f7aa096348892b842f30588c8287c39ab
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax 2" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Cinemax 2
-acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3
+acestream://c3ede4f21525482a4117f0d6b877700d343c7c7c
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-language="Romania" tvg-logo="https://img.favpng.com/21/20/21/discovery-channel-logo-television-channel-discovery-networks-emea-png-favpng-u2KKJPqtnCuh93QuTJrcy5m7D.jpg" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Discovery Channel
 acestream://cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",National Geographic Wild
 acestream://6ffc5e411cb3054daa816592b28c1dff542848d8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",National Geographic Wild HD
-acestream://e53e81a7655624ecbf2859d851d426a449fadcc0
 #EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Crime & Investigation
-acestream://a46bdc1273d5a3004fca1a11e7b39b76c81d64c5
+acestream://aab7fbef6b7bdc8fc593858e9ce186e1bd83f37c
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-language="Romania" tvg-logo="https://d2lv662meabn0u.cloudfront.net/boomerang/static/base/images/logo.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Boomerang
 acestream://4150ccef1b5606d8388ced1d18c0d8a55d755433
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-language="Romania" tvg-logo="https://cdn.imgbin.com/6/3/2/imgbin-disney-junior-logo-disney-la-cha-ne-the-walt-disney-company-graphics-disney-junior-logo-yWV1Qp7gRNiCUMsf6JAdyrn79.jpg" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Disney Junior
@@ -30,15 +28,19 @@ acestream://4e325b6a460b449651cfe1fd276c0c3867b0ebf6
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Kanal D
 acestream://a9851aea4a78a85b72b33bbd2635b179d7425043
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
+acestream://80c835103d593f97421b3da6ea5e7a682a2511ad
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1 HD" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
 acestream://04f6f08e0fefcee081fdc9a4c98cef797659b9bf
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 1
+acestream://72d7dc4b5eb02a7563347244abe32dc57d127a43
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 1
 acestream://be75f2a89469642f16398524d1783bfeb5da5b12
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 2
-acestream://bb814213a7aa8b4de31195daade2dd22258c637d
+acestream://aeabfc7e6b83fae685e3f1fdf05d2747894ccd70
 #EXTINF:-1 tvg-id="" tvg-name="HBO 3" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 3
-acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86
+acestream://d59a1fa955bcc8d1c6018ae1a5fec5c375cf6b15
 #EXTINF:-1 channel-id="AXN-RO" tvg-name="AXN-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN HD
-acestream://0c47eb2e34b5a0d95fef8ae350d2edf7789f7557
+acestream://960a2f2ac8d68ad42b4c889c8474e1c2181d8f96
 #EXTINF:-1 channel-id="AXN Black-RO" tvg-name="AXN Black-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN Black
 acestream://9eeda5af37048ad1c5da3a49d80581eb86c155d0
 #EXTINF:-1 channel-id="AXN Spin-RO" tvg-name="AXN Spin-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN Spin
@@ -59,6 +61,9 @@ acestream://259765059485cbaba1d2218d7521672bf29c9a51
 acestream://16d03b8959b5cfb2ea17764ab81c807765cc7bf8
 #EXTINF:-1 tvg-id="" tvg-name="ZU TV" tvg-language="Romania" tvg-logo="https://crizze.files.wordpress.com/2016/05/zutv-logo-assembly-colored-mic.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",ZU TV
 acestream://a2e5a7f27eb94b266cfb0e89625158c112cde4f4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n9igzhr.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Actualitatea TV
