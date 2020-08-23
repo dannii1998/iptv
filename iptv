@@ -61,6 +61,10 @@ acestream://259765059485cbaba1d2218d7521672bf29c9a51
 acestream://16d03b8959b5cfb2ea17764ab81c807765cc7bf8
 #EXTINF:-1 tvg-id="" tvg-name="ZU TV" tvg-language="Romania" tvg-logo="https://crizze.files.wordpress.com/2016/05/zutv-logo-assembly-colored-mic.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",ZU TV
 acestream://a2e5a7f27eb94b266cfb0e89625158c112cde4f4
+#EXTINF:-1 tvg-id="" tvg-name="PRO X" tvg-language="Romania" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_Pro_X_(2017).svg#/media/File:Logo_Pro_X_(2017).svg" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",PRO X
+acestream://f83c551558f61296b3343822b49666d6937057dd
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/1280px-Logo_Telekom_Sport_1_%282017%29.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Telekom Sport 1
+acestream://559883c89784b4cfca4aa6f353f59059690da7f9
 
 
 
