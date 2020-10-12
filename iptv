@@ -1,7 +1,7 @@
 #EXTM3U
 //Romania Acestream 
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Investigation Discovery
-acestream://e09e40e01c9db11019fc6548f4a4dba6f1ad6f2c
+acestream://1beff34134d62d95ee9551468a80528bc60d6d6c
 #EXTINF:-1 tvg-id="" tvg-name="Film Cafe" tvg-language="Romania" tvg-logo="https://ewsat.com/img/FILM_CAFE.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Film Cafe
 acestream://fd4142b02f876ad8c46f72801b2963535cd771d3
 #EXTINF:-1 tvg-id="" tvg-name="Diva Universal" tvg-language="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtazYm-ffh83aMcKuCQCL519YMdv7gN37ssleVgeI1EpqWU8X-&s" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Diva Universal
@@ -17,7 +17,7 @@ acestream://b1332b4f0babdb2b033c57ec5ea74848b247668f
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",National Geographic Wild
 acestream://97a6b16fc6d8811903315e3d12e6fe6bab96c95b
 #EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Crime & Investigation
-acestream://53885632f0195ffc177ea5fcaeff43aefe8a90d0
+acestream://86b6db01d8081c0cb1e203a1a61ff1687dea36ea
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-language="Romania" tvg-logo="https://d2lv662meabn0u.cloudfront.net/boomerang/static/base/images/logo.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Boomerang
 acestream://4babe6dba97b0d1dd6045197320b747403bc2e36
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-language="Romania" tvg-logo="https://cdn.imgbin.com/6/3/2/imgbin-disney-junior-logo-disney-la-cha-ne-the-walt-disney-company-graphics-disney-junior-logo-yWV1Qp7gRNiCUMsf6JAdyrn79.jpg" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Disney Junior
