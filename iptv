@@ -1,9 +1,9 @@
 #EXTM3U
 //Romania Acestream 
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Pro TV
-acestream://807b53ada101028f845291353521e94a0d57885d
+acestream://89f483d0ce8b51528764f436a9b4669414ead49f
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV HD" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Pro TV HD
-acestream://1ff015ccfe70bd038f359f891c00577f0aaad05a
+acestream://a09ee2af4c9a2ecf29533762cb4d62619a4e830d
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Investigation Discovery
 acestream://1beff34134d62d95ee9551468a80528bc60d6d6c
 #EXTINF:-1 tvg-id="" tvg-name="Film Cafe" tvg-language="Romania" tvg-logo="https://ewsat.com/img/FILM_CAFE.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Film Cafe
@@ -35,7 +35,7 @@ acestream://6752a2b81aedcdd6cfef820c0376be3667e9b973
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 HD" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
 acestream://167870d009ff2c307bb3b370e1cdc9eac401aec5
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 " tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
-acestream://2c337b4d251a7ec3454730814ed9a272898c7fc6
+acestream://bbf8b0fcb4cc052bcde76d3be11a82bb1e7b7e75
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 1
 acestream://113ac47b5e0d21dcbfc16c5c4a5a8724f054ba4d
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 2
