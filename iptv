@@ -31,7 +31,7 @@ acestream://bb7b910976c60406a49d16e3572f54a95ba47722
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Cartoon Network
 acestream://bfd638f49f2c885b93f95a1959c80f182f143de0
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Kanal D
-acestream://325303c6095090c91be34bd8bc559cd0f9bfb9e2
+acestream://0560b4ef27d84ae37cea5a85190c5e8c0a86b6e5
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 HD" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
 acestream://167870d009ff2c307bb3b370e1cdc9eac401aec5
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 " tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
