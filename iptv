@@ -1,43 +1,33 @@
 #EXTM3U
 //Romania Acestream 
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Pro TV
-acestream://89f483d0ce8b51528764f436a9b4669414ead49f
+acestream://a09ee2af4c9a2ecf29533762cb4d62619a4e830d
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Investigation Discovery
-acestream://906d473f1105b723d0664c596bca412c85fdf250
+acestream://9ccce635750ee7deaa7684166b7b3adc64242ceb
 #EXTINF:-1 tvg-id="" tvg-name="Film Cafe" tvg-language="Romania" tvg-logo="https://ewsat.com/img/FILM_CAFE.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Film Cafe
 acestream://dd85b2520489e7a7b9959b8c9f471f5fde379372
 #EXTINF:-1 tvg-id="" tvg-name="Diva Universal" tvg-language="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtazYm-ffh83aMcKuCQCL519YMdv7gN37ssleVgeI1EpqWU8X-&s" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Diva Universal
-acestream://1ad95696a01dd1097426f61a0221e5f1e56e3dc8
+acestream://0995b1cb102e6eb0316a881f2c84d7849ff5bf91
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Cinemax
 acestream://c6cb8f94b2037b79a74e86fe83889a1b534a6dc6
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax 2" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Cinemax 2
 acestream://bbfaee211b3c7e45e20afa6d452f75155430bf62
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-language="Romania" tvg-logo="https://img.favpng.com/21/20/21/discovery-channel-logo-television-channel-discovery-networks-emea-png-favpng-u2KKJPqtnCuh93QuTJrcy5m7D.jpg" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Discovery Channel
-acestream://8127ea684a93a8417785835fc90b93ec5de7204f
+acestream://add6f7a4d0c591d20ccff5475880bf1c316c1a01
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",National Geographic Wild
 acestream://74edffde702fc17fb86d121f1d643a5df47a75f3
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Crime & Investigation
-acestream://86b6db01d8081c0cb1e203a1a61ff1687dea36ea
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-language="Romania" tvg-logo="https://d2lv662meabn0u.cloudfront.net/boomerang/static/base/images/logo.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Boomerang
-acestream://ba48a61a7b3062fa76ea60ce7b652692460e113c
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-language="Romania" tvg-logo="https://cdn.imgbin.com/6/3/2/imgbin-disney-junior-logo-disney-la-cha-ne-the-walt-disney-company-graphics-disney-junior-logo-yWV1Qp7gRNiCUMsf6JAdyrn79.jpg" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Disney Junior
-acestream://283bd7be92b4a9bcc0e50ba2cc3b313197d8c330
-#EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-language="Romania" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Minimax_%282013%29.png/revision/latest?cb=20180114221815" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Minimax
-acestream://a626cdbc863285144d08d59d10412715efc09092
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Cartoon Network
-acestream://a2ca3b3f7bdbbe6a3bca1e98a5adfa4b60ef8782
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Kanal D
-acestream://a412feeb0ea10bab06647eb7140816a8fbf33248
+acestream://5b37fc3833ff8874feccc15a8476175f2a9dd22e
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 " tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
-acestream://8c4b43dc274d54d061dce23f31f3d1063aaddb2b
+acestream://f168cebe3acc12fb208f7950c3157045352c9109
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 1
 acestream://c6e7b0a6409e4714813a8f0221d06f3be73192c6
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 2
-acestream://57b11fe46aeda24bffb3b148a8609c54340625f1
+acestream://05b48e91043e46677631ffd70b76268f044359f1
 #EXTINF:-1 tvg-id="" tvg-name="HBO 3" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 3
 acestream://0bf1bea4b5e6cd116ee907020c7e7ae76c53abb7
 #EXTINF:-1 channel-id="AXN-RO" tvg-name="AXN-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN HD
-acestream://60bfc02c4fb30ef9291c469a155bdf0fa947f613
+acestream://60a604bbf9fb93785cd2b0faf9d3fff92e24631b
 #EXTINF:-1 channel-id="AXN Black-RO" tvg-name="AXN Black-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN Black
 acestream://211eeed348628f331975a2f5cf143b4a94dc41bb
 #EXTINF:-1 channel-id="AXN Spin-RO" tvg-name="AXN Spin-RO" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",AXN Spin
@@ -63,561 +53,378 @@ acestream://1e29d6498b417e9c360a5d6cead322a9aef084f1
 
 
 //Romania Github
-#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Romania",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASEVENTV" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Romania",A7 TV
+#EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",A7TV (720p)
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n9igzhr.png" tvg-country="RO" tvg-url="" group-title="Romania",Actualitatea TV
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/n9igzhr.png" tvg-country="RO" tvg-url="" group-title="Romania",Actualitatea TV
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6PCCvYh.png" tvg-country="RO" tvg-url="" group-title="Romania",Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/p4rcHoe.png" tvg-country="RO" tvg-url="" group-title="Romania",Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-country="RO" tvg-url="" group-title="Romania",Alfa Omega TV
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-url="" group-title="Religious",Alfa Omega TV (540p)
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-country="RO" tvg-url="" group-title="Romania",Alfa Omega TV
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-url="" group-title="Religious",Alfa Omega TV (540p)
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-country="RO" tvg-url="" group-title="Romania",Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="Alpha Mediao TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/dmdcwC6.png" tvg-country="RO" tvg-url="" group-title="Romania",Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Comedy" tvg-language="Romanian" tvg-logo="https://i.imgur.com/tH624pc.png" tvg-country="RO" tvg-url="" group-title="Romania",Antena Comedy
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="Comedy",Antena 1
 https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/catalinfonts/images/e/e5/Cook%26play_logo_2013.png" tvg-country="RO" tvg-url="" group-title="Romania",Antena Cook and Play
+#EXTINF:-1 tvg-id="AntenaStarsHD.ro" tvg-name="Antena Stars HD" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Antena Stars HD
 https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena Monden" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6R5TLlc.png" tvg-country="RO" tvg-url="" group-title="Romania",Antena Monden
+#EXTINF:-1 tvg-id="AntenaStarsHDDirect.ro" tvg-name="Antena Stars HD Direct" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Antena Stars HD Direct
 https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" tvg-country="RO" tvg-url="" group-title="Romania",B1
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" tvg-url="" group-title="",B1 (360p)
 https://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/5RcXm3M.png" tvg-country="RO" tvg-url="" group-title="Romania",Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/IDLUf7r.png" tvg-country="RO" tvg-url="" group-title="Romania",Bollywood Clasic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://m.imgur.com/4O7CPFq.png" tvg-country="RO" tvg-url="" group-title="Romania",Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" tvg-country="RO" tvg-url="" group-title="Romania",Bucovina TV
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-PbJbgwulmgg/XlcvWvE1krI/AAAAAAAArqk/GybN3PTg-tAskuSoJQe3hfT2CvPXdA1WwCLcBGAsYHQ/s320/Bloomberg%2BTelevision.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-name="Bucovina TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" tvg-url="" group-title="",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" tvg-country="RO" tvg-url="" group-title="Romania",Bucovina TV
+#EXTINF:-1 tvg-id="BucovinaTV.ro" tvg-name="Bucovina TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7QHdiTO.png" tvg-url="" group-title="",Bucovina TV (480p)
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BxUibFh.png" tvg-country="RO" tvg-url="" group-title="Romania",Canal33
+#EXTINF:-1 tvg-id="Canal33.ro" tvg-name="Canal33" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BxUibFh.png" tvg-url="" group-title="",Canal33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Tyrzwr2.png" tvg-country="RO" tvg-url="" group-title="Romania",Columna TV
+#EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Tyrzwr2.png" tvg-url="" group-title="",Columna TV
 rtmp://columna1.arya.ro/live/columnatv1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Credo TV
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" tvg-url="" group-title="Music",Credo TV (720p)
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XzChc5P.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Cromtel TV
+#EXTINF:-1 tvg-id="CromtelTV.ro" tvg-name="Cromtel TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XzChc5P.jpg" tvg-url="" group-title="",Cromtel TV
 http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" tvg-country="RO" tvg-url="" group-title="Romania",Elita TV
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Digi 24 (720p)
+http://d-e-02.cdn.rdsnet.ro/DVR/digi24hdb.stream/playlit.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Digi 24 (720p)
+https://edge74.rcs-rds.ro/V4-5289983-a2e60f05d11c9ffd7da25758ed3c9f0d-88425061-0-1611067955-477-digi24/digi24/digi24-abr.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Digi 24 (384p)
+https://stream1.kanald.ro/iphone/live.m3u8
+#EXTINF:-1 tvg-id="ElitaTV.ro" tvg-name="Elita TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmbmx3y.png" tvg-url="" group-title="",Elita TV
 http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xAmYapr.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" tvg-country="RO" tvg-url="" group-title="Romania",EST TV Neamt
+#EXTINF:-1 tvg-id="EstTVNeamt.ro" tvg-name="Est TV (Neamt)" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" tvg-url="" group-title="",Est TV (Neamt)
 http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" tvg-country="RO" tvg-url="" group-title="Romania",GTV
+#EXTINF:-1 tvg-id="GTV.ro" tvg-name="GTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/bJVG9HX/GTV.jpg" tvg-url="" group-title="",GTV
 rtmp://gtv1.arya.ro:1935/live/gtv1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Iasi TV Life
+#EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" tvg-url="" group-title="",IasiTV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Iasi TV Life
+#EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JK6Rypn.jpg" tvg-url="" group-title="",IasiTV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0j1matP.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/xfMpRfy/Infinit-tv.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Infinit TV
+#EXTINF:-1 tvg-id="InfinitTV.ro" tvg-name="Infinit TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/xfMpRfy/Infinit-tv.jpg" tvg-url="" group-title="",Infinit TV
 http://webmobile.xdev.ro:81/tv6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Intermedia TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" tvg-country="RO" tvg-url="" group-title="Romania",Intermedia TV
+#EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" tvg-url="" group-title="",Intermedia TV (576p)
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/g4CBPJa.png" tvg-country="RO" tvg-url="" group-title="Romania",MDI TV
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Kiss TV (576p)
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
+#EXTINF:-1 tvg-id="LookSport.ro" tvg-name="LookSport" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",LookSport (404p)
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 tvg-id="LookSport2.ro" tvg-name="LookSport 2" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",LookSport 2 (404p)
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 tvg-id="LookSport3.ro" tvg-name="LookSport 3" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",LookSport 3 (404p)
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 tvg-id="LookSportPlus.ro" tvg-name="LookSport Plus" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",LookSport Plus (404p)
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
+#EXTINF:-1 tvg-id="MDITV.ro" tvg-name="MDI TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/g4CBPJa.png" tvg-url="" group-title="",MDI TV
 rtmp://89.33.78.174/live/livestream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/fw2fTCA.jpg" tvg-country="RO" tvg-url="" group-title="Romania",MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" tvg-country="RO" tvg-url="" group-title="Romania",MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" tvg-country="RO" tvg-url="" group-title="Romania",MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-country="RO" tvg-url="" group-title="Romania",MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/tm4gMJF/Muscel-TV-RO.png" tvg-country="RO" tvg-url="" group-title="Romania",Muscel TV
+#EXTINF:-1 tvg-id="MuscelTV.ro" tvg-name="Muscel TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/tm4gMJF/Muscel-TV-RO.png" tvg-url="" group-title="",Muscel TV
 mmsh://musceltvlive.muscel.ro:8080
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZUOylvd.png" tvg-country="RO" tvg-url="" group-title="Romania",NEst TV
+#EXTINF:-1 tvg-id="MusicChannelRomania.ro" tvg-name="Music Channel Romania" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Music Channel Romania (576p)
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
+#EXTINF:-1 tvg-id="MusicChannelRomania.ro" tvg-name="Music Channel Romania" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",Music Channel Romania (576p)
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NatGeoWildRomania.us" tvg-name="Nat Geo Wild Romania" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="Documentary",Nat Geo Wild Romania
+http://edge76.rcs-rds.ro/digiedge2/nationalgeographicwildehd.stream/index.m3u8?is=33&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-id="NationalGeographicRomania.us" tvg-name="National Geographic România" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="Documentary",National Geographic România
+http://edge76.rcs-rds.ro/digiedge2/nationalgeographicehd.stream/index.m3u8?is=19&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Naşul TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Naşul TV (720p)
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="NEstTV.ro" tvg-name="NEst TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZUOylvd.png" tvg-url="" group-title="",NEst TV
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/2dgyYGy/Ploiesti-TV.jpg" tvg-country="RO" tvg-url="" group-title="Romania",Ploiesti TV
+#EXTINF:-1 tvg-id="PloiestiTV.ro" tvg-name="Ploiesti TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/2dgyYGy/Ploiesti-TV.jpg" tvg-url="" group-title="",Ploiesti TV
 rtmp://v1.arya.ro:1935/live/ptv1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/SgOwcq7.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro 2
-https://vid.hls.protv.ro/pro2n/pro2.m3u8?1
-#EXTINF:-1 tvg-id="Pro Cinema RO" tvg-name="Pro Cinema RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/8i9dhEs.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/MrXWPbj.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro Gold
-https://vid.hls.protv.ro/progoldn/progold.m3u8?1
-#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/O9T7Uqp.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/O9T7Uqp.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV News
-https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/tuGkZsJ.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro X
-https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xM1dw57.png" tvg-country="RO" tvg-url="" group-title="Romania",Profit.ro
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Prima TV (404p)
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenendtime=1611115175&wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=&wowzatokenstarttime=1611071975
+#EXTINF:-1 tvg-id="Profitro.ro" tvg-name="Profit.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xM1dw57.png" tvg-url="" group-title="",Profit.ro (404p)
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" tvg-country="RO" tvg-url="" group-title="Romania",Rapsodia TV
+#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-name="Rapsodia TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/TH1T2Y2/Rapsodia-TV.png" tvg-url="" group-title="",Rapsodia TV
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF:-1 tvg-id="Realitatea TV RO" tvg-name="Realitatea TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L0Givzu.png" tvg-country="RO" tvg-url="" group-title="Romania",Realitatea Plus
+#EXTINF:-1 tvg-id="Realitatea TV RO" tvg-name="Realitatea TV RO" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L0Givzu.png" tvg-url="" group-title="",Realitatea Plus (720p)
 https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qFE5PUx.png" tvg-country="RO" tvg-url="" group-title="Romania",Sangeorz TV
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-name="Realitatea TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Realitatea TV (576p)
+https://live.realitatea.net/livertmp/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="SangeorzTV.ro" tvg-name="Sangeorz TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qFE5PUx.png" tvg-url="" group-title="",Sangeorz TV
 http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3LdXQxm.png" tvg-country="RO" tvg-url="" group-title="Romania",Somax TV
+#EXTINF:-1 tvg-id="SomaxTV.ro" tvg-name="Somax TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3LdXQxm.png" tvg-url="" group-title="",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="RO" tvg-url="" group-title="Romania",Speranta TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" tvg-country="RO" tvg-url="" group-title="Romania",Telestar1
+#EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" tvg-url="" group-title="",Telestar1
 http://s1.streamnet.ro:8053/stream.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/LZYnpH6/Traditii-TV-RO.png" tvg-country="RO" tvg-url="" group-title="Romania",TraditiiTV
+#EXTINF:-1 tvg-id="TraditiiTV.ro" tvg-name="TraditiiTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/LZYnpH6/Traditii-TV-RO.png" tvg-url="" group-title="",TraditiiTV
 rtmp://traditii1.arya.ro/live/traditiitv1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg" tvg-country="RO" tvg-url="" group-title="Romania",TravelMix
+#EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Travel Mix (576p)
 http://89.38.8.131:39520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0CbAlXu.png" tvg-country="RO" tvg-url="" group-title="Romania",TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/44ZcVs5/tv-se-mangalia-ro.jpg" tvg-country="RO" tvg-url="" group-title="Romania",TV SE
+#EXTINF:-1 tvg-id="TVSE.ro" tvg-name="TV SE" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/44ZcVs5/tv-se-mangalia-ro.jpg" tvg-url="" group-title="",TV SE
 http://89.38.8.130:39419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6T7w975.png" tvg-country="RO" tvg-url="" group-title="Romania",TVPlus Suceava
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TVPlus Suceava" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6T7w975.png" tvg-url="" group-title="",TVPlus Suceava
 http://85.186.146.34:8080
-#EXTINF:-1 tvg-id="TVR 1 RO" tvg-name="TVR 1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/wzoSQ85.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR 2 RO" tvg-name="TVR 2 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K0u1bpZ.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR 3 RO" tvg-name="TVR 3 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Uz1oiYM.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Cluj RO" tvg-name="TVR Cluj RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XW7BIDB.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR Cluj
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Craiova RO" tvg-name="TVR Craiova RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/hBb7MPp.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR Craiova
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Iasi RO" tvg-name="TVR Iasi RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/L98VUhG.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR Iasi
-http://89.136.209.26:1935/liveedge/TVRIASI.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Targu Mures RO" tvg-name="TVR Targu Mures RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/b6EStAB.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR Targu-Mures
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CKQ7mpB.png" tvg-url="" group-title="General",TVR 1 (720p)
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AlW8jyl.png" tvg-url="" group-title="General",TVR International (480p)
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Targu-Mures" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/b6EStAB.png" tvg-url="" group-title="General",TVR Targu-Mures (480p)
 http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR Timisoara RO" tvg-name="TVR Timisoara RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qZ7trDX.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR Timisoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png" tvg-country="RO" tvg-url="" group-title="Romania",TVSat
+#EXTINF:-1 tvg-id="TVSat.ro" tvg-name="TVSat" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png" tvg-url="" group-title="",TVSat
 http://89.38.8.130:39443
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/Rb2ff23/VPTV-RO.png" tvg-country="RO" tvg-url="" group-title="Romania",VP TV
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="Music",UTV (576p)
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="Music",UTV (576p)
+https://edge126.rcs-rds.ro/utvedge/utvhq.stream/index.m3u8
+#EXTINF:-1 tvg-id="VPTV.ro" tvg-name="VP TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/Rb2ff23/VPTV-RO.png" tvg-url="" group-title="",VP TV
 http://89.38.8.130:39437
 
 
 
 
-//Turkey Github
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" tvg-country="TR" tvg-url="" group-title="Turkey",Afyon Turk TV
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yBGZy4n/obCp0aK.png" tvg-country="TR" tvg-url="" group-title="Turkey",Ahi TV Kirsehir
-http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" tvg-country="TR" tvg-url="" group-title="Turkey",Akit TV
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" tvg-country="TR" tvg-url="" group-title="Turkey",Al-Zahra TV Turkic
-https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" tvg-country="TR" tvg-url="" group-title="Turkey",Al-Zahra TV Turkic
-https://live.al-zahratv.com/live/playlist2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" tvg-country="TR" tvg-url="" group-title="Turkey",Altaş TV
-http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" tvg-country="TR" tvg-url="" group-title="Turkey",Beşiktaş Web TV
-https://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/BBx9nKK/yCer0tL.png" tvg-country="TR" tvg-url="" group-title="Turkey",BRT 1 (Kıbrıs)
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" tvg-country="TR" tvg-url="" group-title="Turkey",BRT 2
-http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" tvg-country="TR" tvg-url="" group-title="Turkey",BRT 2 (Turkish)
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2Yc8Yf/k6DUajb.png" tvg-country="TR" tvg-url="" group-title="Turkey",Bursa TV
-https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",Can TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" tvg-country="TR" tvg-url="" group-title="Turkey",Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xXjjbq6/yhzxKnt.png" tvg-country="TR" tvg-url="" group-title="Turkey",CRI Turk Belgesel
-http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nm59LwX/ZbkdWg9.png" tvg-country="TR" tvg-url="" group-title="Turkey",Diyalog TV
-http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nm59LwX/ZbkdWg9.png" tvg-country="TR" tvg-url="" group-title="Turkey",Diyalog TV
-https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bHP8whJ/MwuqE6S.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Gdb8yX4/xyubJha.png" tvg-country="TR" tvg-url="" group-title="Turkey",Doğuş TV
-https://s01.vpis.io/dogustv/dogustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" tvg-country="TR" tvg-url="" group-title="Turkey",ETV Manisa
-https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-country="TR" tvg-url="" group-title="Turkey",Finans Turk TV
-http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/CMMB6nk/zzX2cW3.png" tvg-country="TR" tvg-url="" group-title="Turkey",Guneydoğu TV
-http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/vYEnfbj.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",Halk TV
-http://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/d0T2jfg/ibb-tv-logo-white.png" tvg-country="TR" tvg-url="" group-title="Turkey",IBB TV
-rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/d0T2jfg/ibb-tv-logo-white.png" tvg-country="TR" tvg-url="" group-title="Turkey",Istanbul Metropolitan Municipality
-http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" tvg-country="TR" tvg-url="" group-title="Turkey",Kanal 3
-http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bmv9sVP/UbVZFtm.png" tvg-country="TR" tvg-url="" group-title="Turkey",Kanal Urfa
-http://stream.taksimbilisim.com:1935/kanalurfa/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",Kon TV
-https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kral Pop TR" tvg-name="Kral Pop TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7v8wmsb/7H8WKei.png" tvg-country="TR" tvg-url="" group-title="Turkey",Kral Pop
-https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kral Pop TR" tvg-name="Kral Pop TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7v8wmsb/7H8WKei.png" tvg-country="TR" tvg-url="" group-title="Turkey",Kral Pop
-https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" tvg-country="TR" tvg-url="" group-title="Turkey",Kral TV
-https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" tvg-country="TR" tvg-url="" group-title="Turkey",Kral TV
-https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" tvg-country="TR" tvg-url="" group-title="Turkey",Med Muzîk
-http://137.74.205.201/live3/mm-3mbps.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" tvg-country="TR" tvg-url="" group-title="Turkey",Natural TV
-http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" tvg-country="TR" tvg-url="" group-title="Turkey",Natural TV
-https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" tvg-country="TR" tvg-url="" group-title="Turkey",NTV
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" tvg-country="TR" tvg-url="" group-title="Turkey",NTV
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",ON4 TV
-http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/v1vtvJt/N3keKip.png" tvg-country="TR" tvg-url="" group-title="Turkey",Power Türk
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f8Xp0h9/pBgMaFV.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",Rudaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" tvg-country="TR" tvg-url="" group-title="Turkey",Star TV
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" tvg-country="TR" tvg-url="" group-title="Turkey",TBMM TV
-https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" tvg-country="TR" tvg-url="" group-title="Turkey",Teve2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" tvg-country="TR" tvg-url="" group-title="Turkey",TGRT Belgesel
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" tvg-country="TR" tvg-url="" group-title="Turkey",TGRT Belgesel
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TGRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hWTdMQ6/K8Vh6HD.png" tvg-country="TR" tvg-url="" group-title="Turkey",TGRT Haber
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",tivi TÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-id="TLC TR" tvg-name="TLC TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" tvg-country="TR" tvg-url="" group-title="Turkey",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
-#EXTINF:-1 tvg-id="TLC TR" tvg-name="TLC TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" tvg-country="TR" tvg-url="" group-title="Turkey",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="" tvg-country="TR" tvg-url="" group-title="Turkey",TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-country="TR" tvg-url="" group-title="Turkey",TRT Arabi
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-country="TR" tvg-url="" group-title="Turkey",TRT Avaz
-https://tv-trtavaz.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT Cocuk TR" tvg-name="TRT Cocuk TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",TRT Cocuk
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",TRT Haber
-https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bB4yG1Y/cWIvunZ.png" tvg-country="TR" tvg-url="" group-title="Turkey",TRT Kurdi
-https://tv-trtkurdi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",TRT Muzik
-https://tv-trtmuzik.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" tvg-country="TR" tvg-url="" group-title="Turkey",TRT Türk
-https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" tvg-country="TR" tvg-url="" group-title="Turkey",TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XLaZUzJ.png" tvg-country="TR" tvg-url="" group-title="Turkey",TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QXDPwFR/ceYfPXJ.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",TV 4
-https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",UçanKuş TV
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-
-
-
-
 //Germany Github
-#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-country="DE" tvg-url="" group-title="Germany",a.tv
-http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-country="DE" tvg-url="" group-title="Germany",a.tv
+#EXTM3U
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",3sat [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-url="" group-title="",a.tv (1080p)
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Allgäu TV
-http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-language="German" tvg-logo="https://bit.ly/36NAZA1" tvg-country="DE" tvg-url="" group-title="Germany",Anixe HD
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/641px-Anixe_HD.svg.png" tvg-url="" group-title="",Anixe HD (720p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-country="DE" tvg-url="" group-title="Germany",ARD HD
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="Germany",ARD HD
-https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Baden TV
+#EXTINF:-1 tvg-id="ArteDeutsch.fr" tvg-name="Arte Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Arte Deutsch [Geo-blocked]
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden TV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Baden TV (720p)
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Baden TV
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden TV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Baden TV (720p)
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" tvg-country="DE" tvg-url="" group-title="Germany",BLK TV
+#EXTINF:-1 tvg-id="BLKTV.de" tvg-name="BLK TV" tvg-country="DE" tvg-language="German" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" tvg-url="" group-title="",BLK TV (1080p)
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",BR FERNSEHEN
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" tvg-country="DE" tvg-url="" group-title="Germany",BR Fernsehen Germany
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" tvg-country="DE" tvg-url="" group-title="Germany",BR Fernsehen Nord
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-PbJbgwulmgg/XlcvWvE1krI/AAAAAAAArqk/GybN3PTg-tAskuSoJQe3hfT2CvPXdA1WwCLcBGAsYHQ/s320/Bloomberg%2BTelevision.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" tvg-url="" group-title="",BR Fernsehen Nord (720p)
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",BR Fernsehen Nord HD
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",BR Fernsehen Nord (720p)
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",BR Fernsehen Süd HD
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-name="BR Fernsehen Süd" tvg-country="DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" tvg-url="" group-title="",BR Fernsehen Süd (720p)
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-name="BR Fernsehen Süd" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",BR Fernsehen Süd (720p)
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Campus TV Magdeburg
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-name="BR Fernsehen Süd" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",BR Fernsehen Süd (720p)
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="CampusTVMagdeburg.de" tvg-name="Campus TV Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Campus TV Magdeburg (1080p)
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Campus TV Magdeburg
+#EXTINF:-1 tvg-id="CampusTVMagdeburg.de" tvg-name="Campus TV Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-url="" group-title="",Campus TV Magdeburg (1080p)
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Chemnitz Fernsehen
+#EXTINF:-1 tvg-id="ChemnitzFernsehen.de" tvg-name="Chemnitz Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Chemnitz Fernsehen (1080p)
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-country="DE" tvg-url="" group-title="Germany",Deutsche Welle
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Deutsche Welle
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Deutsche Welle
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-country="DE" tvg-url="" group-title="Germany",Deutsche Welle Arabic
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Deutsche Welle English
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Deutsche Welle English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-country="DE" tvg-url="" group-title="Germany",Deutsche Welle Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Deutsches Musik Fernsehen
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-url="" group-title="",Das Erste HD (720p)
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-url="" group-title="",Das Erste HD (720p)
+https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" tvg-url="" group-title="",Deutsches Musik Fernsehen (720p)
 https://tv.artcom-venture.de/dmf/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" tvg-country="DE" tvg-url="" group-title="Germany",Donau TV
-http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" tvg-country="DE" tvg-url="" group-title="Germany",Donau TV
-http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",dorf tv
+#EXTINF:-1 tvg-id="dorftv.de" tvg-name="dorf tv" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Dresden Fernsehen
+#EXTINF:-1 tvg-id="DresdenFernsehen.de" tvg-name="Dresden Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Dresden Fernsehen (1080p)
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" tvg-country="DE" tvg-url="" group-title="Germany",ELBEKANAL
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",DW (400p)
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW (400p)
+https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW (400p)
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-id="ELBEKANAL.de" tvg-name="ELBEKANAL" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" tvg-url="" group-title="",ELBEKANAL (576p)
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/oitJsZU.png" tvg-country="DE" tvg-url="" group-title="Germany",EOTV
+#EXTINF:-1 tvg-id="eoTV.de" tvg-name="eo TV" tvg-country="DE;AT;CH" tvg-language="German" tvg-logo="https://i.imgur.com/oitJsZU.png" tvg-url="" group-title="",eo TV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",ERF 1
+#EXTINF:-1 tvg-id="ERF1.de" tvg-name="ERF 1" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ERF 1
 http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/MAnSA7W.jpg" tvg-country="DE" tvg-url="" group-title="Germany",ERF 1
+#EXTINF:-1 tvg-id="ERF1.de" tvg-name="ERF 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/MAnSA7W.jpg" tvg-url="" group-title="",ERF 1 (720p)
 https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",EWTN katholisches TV
+#EXTINF:-1 tvg-id="EWTNkatholischesTV.de" tvg-name="EWTN katholisches TV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",EWTN katholisches TV (720p)
 https://d3j0n5al39mfyd.cloudfront.net/p/GERG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" tvg-country="DE" tvg-url="" group-title="Germany",Filstalwelle
+#EXTINF:-1 tvg-id="FCBayernMunchenTV.de" tvg-name="FC Bayern München TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/b6tcf2i.jpg" tvg-url="" group-title="Sport",FC Bayern München TV (1080p)
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
+#EXTINF:-1 tvg-id="Filstalwelle.de" tvg-name="Filstalwelle" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" tvg-url="" group-title="",Filstalwelle (576p)
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/z42mYv9.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/z42mYv9.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/q2QtEJO.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Franken Fernsehen
-http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/iaXoYxb.png" tvg-country="DE" tvg-url="" group-title="Germany",H1
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/iaXoYxb.png" tvg-country="DE" tvg-url="" group-title="Germany",H1
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Ecrl44R.png" tvg-country="DE" tvg-url="" group-title="Germany",Halle
+#EXTINF:-1 tvg-id="Halle.de" tvg-name="Halle" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Ecrl44R.png" tvg-url="" group-title="",Halle (720p)
 http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",health.tv
+#EXTINF:-1 tvg-id="healthtv.de" tvg-name="health.tv" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",health.tv (720p)
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="Germany",HR Event 2
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-url="" group-title="",HR Event 2 (720p)
 https://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="Germany",HR Fernsehen
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="Germany",HR Fernsehen
-https://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="Germany",HR HD
+#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR Fernsehen" tvg-country="DE;AT;CH;LI;LU;NL;BE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",HR Fernsehen (1080p)
+http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-url="" group-title="",HR Fernsehen (1080p)
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24" tvg-language="German" tvg-logo="https://i.imgur.com/fnW0Pk8.jpg" tvg-country="DE" tvg-url="" group-title="Germany",HSE 24
-https://edge-1192-ch-gv.filmon.com/live/4727.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/W3bzWe2.jpg" tvg-country="DE" tvg-url="" group-title="Germany",HSE 24 Extra
-https://edge-1192-ch-gv.filmon.com/live/4730.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",HSE24
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-country="DE;AT;CH;LI;LU;NL;BE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-url="" group-title="",HR Fernsehen (1080p)
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-country="DE;AT;CH;LI;LU;NL;BE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-url="" group-title="",HR Fernsehen (1080p)
+https://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",HSE (1080p)
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/v3uL5SG.png" tvg-country="DE" tvg-url="" group-title="Germany",Isar TV
-http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Isar TV
+#EXTINF:-1 tvg-id="IDHDJKT.de" tvg-name="ID HD (JKT)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="Movies",ID HD (JKT)
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 tvg-id="IsarTV.de" tvg-name="Isar TV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Isar TV (1080p)
 https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",K-TV
+#EXTINF:-1 tvg-id="KTVFernsehen.de" tvg-name="K-TV (Fernsehen)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",K-TV (Fernsehen)
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel eins" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png" tvg-country="DE" tvg-url="" group-title="Germany",Kabel eins
-http://188.35.9.5:10020/stolen/497b/hot.dll
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/kybSwK3.png" tvg-country="DE" tvg-url="" group-title="Germany",Kiel TV
-https://live.oksh.de:8888/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-id="KIKA.de" tvg-name="KIKA" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KiKA_HD.svg/2000px-KiKA_HD.svg.png" tvg-country="DE" tvg-url="" group-title="Germany",Kika HD
-https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/index_3776_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Leipzig Fernsehen
+#EXTINF:-1 tvg-id="KiKa.de" tvg-name="KiKa" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",KiKa [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="LeipzigFernsehen.de" tvg-name="Leipzig Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Leipzig Fernsehen (1080p)
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/qskVMhF.png" tvg-country="DE" tvg-url="" group-title="Germany",Light Channel
+#EXTINF:-1 tvg-id="LightChannel.de" tvg-name="Light Channel" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/qskVMhF.png" tvg-url="" group-title="",Light Channel (576p)
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",M4TV
+#EXTINF:-1 tvg-id="M4TV.de" tvg-name="M4TV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",M4TV (1080p)
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" tvg-country="DE" tvg-url="" group-title="Germany",MDF 1
+#EXTINF:-1 tvg-id="MDF1.de" tvg-name="MDF 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" tvg-url="" group-title="",MDF 1 (1080p)
 http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" tvg-country="DE" tvg-url="" group-title="Germany",MDF 1
+#EXTINF:-1 tvg-id="MDF1.de" tvg-name="MDF 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" tvg-url="" group-title="",MDF 1 (1080p)
 http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" tvg-country="DE" tvg-url="" group-title="Germany",MDF 1
+#EXTINF:-1 tvg-id="MDF1.de" tvg-name="MDF 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" tvg-url="" group-title="",MDF 1 (1080p)
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="Germany",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="Germany",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="Germany",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="Germany",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="Germany",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="Germany",München TV
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-url="" group-title="",München TV (1080p)
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="Germany",NDR Fernsehen
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-url="" group-title="",NDR Fernsehen (720p)
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",NDR Hamburg
+#EXTINF:-1 tvg-id="NDRHamburg.de" tvg-name="NDR Hamburg" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",NDR Hamburg (720p)
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",NDR Mecklenburg-Vorpommern
+#EXTINF:-1 tvg-id="NDRMecklenburgVorpommern.de" tvg-name="NDR Mecklenburg-Vorpommern" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",NDR Mecklenburg-Vorpommern (720p)
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",NDR Schleswig-Holstein
+#EXTINF:-1 tvg-id="NDRSchleswigHolstein.de" tvg-name="NDR Schleswig-Holstein" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",NDR Schleswig-Holstein (720p)
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Noa 4 Hamburg
+#EXTINF:-1 tvg-id="Noa4Hamburg.de" tvg-name="Noa 4 Hamburg" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Noa 4 Hamburg
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" tvg-country="DE" tvg-url="" group-title="Germany",Noa 4 Norderstedt
+#EXTINF:-1 tvg-id="Noa4Norderstedt.de" tvg-name="Noa 4 Norderstedt" tvg-country="DE" tvg-language="German" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" tvg-url="" group-title="",Noa 4 Norderstedt
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-country="DE" tvg-url="" group-title="Germany",NRWision
+#EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-url="" group-title="",NRWision
 https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-country="DE" tvg-url="" group-title="Germany",NRWision
+#EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-url="" group-title="",NRWision
 https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" tvg-country="DE" tvg-url="" group-title="Germany",NRWision
+#EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" tvg-url="" group-title="",NRWision (360p)
 https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Oberpfalz TV
-http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Oberpfalz TV
+#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-name="Oberpfalz TV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Oberpfalz TV (1080p)
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",oe24 TV
+#EXTINF:-1 tvg-id="oe24TV.de" tvg-name="oe24 TV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",oe24 TV (360p)
 https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Offener Kanal Dessau
+#EXTINF:-1 tvg-id="OffenerKanalDessau.de" tvg-name="Offener Kanal Dessau" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Offener Kanal Dessau (1080p)
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Offener Kanal Dessau
+#EXTINF:-1 tvg-id="OffenerKanalDessau.de" tvg-name="Offener Kanal Dessau" tvg-country="DE" tvg-language="German" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" tvg-url="" group-title="",Offener Kanal Dessau (1080p)
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/BHTsPMP.png" tvg-country="DE" tvg-url="" group-title="Germany",Offener Kanal Magdeburg
+#EXTINF:-1 tvg-id="OffenerKanalMagdeburg.de" tvg-name="Offener Kanal Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/BHTsPMP.png" tvg-url="" group-title="",Offener Kanal Magdeburg (1080p)
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Offener Kanal Magdeburg
+#EXTINF:-1 tvg-id="OffenerKanalMagdeburg.de" tvg-name="Offener Kanal Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Offener Kanal Magdeburg (1080p)
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" tvg-country="DE" tvg-url="" group-title="Germany",Offener Kanal Magdeburg
+#EXTINF:-1 tvg-id="OffenerKanalMagdeburg.de" tvg-name="Offener Kanal Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" tvg-url="" group-title="",Offener Kanal Magdeburg (1080p)
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/B5obZtE.png" tvg-country="DE" tvg-url="" group-title="Germany",Offener Kanal Salzwedel
+#EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/B5obZtE.png" tvg-url="" group-title="",Offener Kanal Salzwedel (1080p)
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Offener Kanal Salzwedel
+#EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Offener Kanal Salzwedel (1080p)
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",OK-Stendal
+#EXTINF:-1 tvg-id="OKWeinstrasse.de" tvg-name="OK Weinstraße" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",OK Weinstraße (360p)
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-name="OK-Stendal" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",OK-Stendal (1080p)
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",OK-Stendal
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-name="OK-Stendal" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",OK-Stendal (1080p)
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Okto
+#EXTINF:-1 tvg-id="Okto.de" tvg-name="Okto" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Okto (720p)
 https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/K1hkyd7.png" tvg-country="DE" tvg-url="" group-title="Germany",Oldenburg Eins
-http://oeins.de:1935/live/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" tvg-country="DE" tvg-url="" group-title="Germany",Parlamentsfernsehen 1
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" tvg-url="" group-title="",Parlamentsfernsehen 1 (1080p)
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Parlamentsfernsehen 1
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Parlamentsfernsehen 1 (1080p)
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" tvg-country="DE" tvg-url="" group-title="Germany",Parlamentsfernsehen 2
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-name="Parlamentsfernsehen 2" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" tvg-url="" group-title="",Parlamentsfernsehen 2 (1080p)
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Parlamentsfernsehen 2
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-name="Parlamentsfernsehen 2" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Parlamentsfernsehen 2 (1080p)
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",pearl.tv
+#EXTINF:-1 tvg-id="pearltv.de" tvg-name="pearl.tv" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",pearl.tv (360p)
 http://enstyle.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" tvg-country="DE" tvg-url="" group-title="Germany",Prosieben
-http://188.35.9.5:10020/stolen/496w/hot.dll
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-language="German" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/prosiebenmaxx/logo/prosiebenmaxx_ox__W1000xh0.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Prosieben Maxx
-http://188.35.9.5:10020/stolen/500w/hot.dll
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" tvg-country="DE" tvg-url="" group-title="Germany",Radio 21 TV
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Phoenix [Geo-blocked]
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-id="Radio21TV.de" tvg-name="Radio 21 TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" tvg-url="" group-title="Music",Radio 21 TV (720p)
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" tvg-country="DE" tvg-url="" group-title="Germany",Radio Weser TV Bremen
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-name="Radio Weser TV Bremen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" tvg-url="" group-title="Music",Radio Weser TV Bremen (576p)
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/NUP8ZBb.png" tvg-country="DE" tvg-url="" group-title="Germany",RAN1 Regionalfernsehen
+#EXTINF:-1 tvg-id="RAN1Regionalfernsehen.de" tvg-name="RAN1 Regionalfernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NUP8ZBb.png" tvg-url="" group-title="",RAN1 Regionalfernsehen (1080p)
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XTMWFx7.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Regio TV Schwaben
-http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",RFO
-http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="RNF.de" tvg-name="Rhein-Neckar Fernsehen" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Rhein Neckar Fernsehen
-http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-language="German" tvg-logo="https://i.imgur.com/G7W4K3K.png" tvg-country="DE" tvg-url="" group-title="Germany",Rheinmain TV
+#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/G7W4K3K.png" tvg-url="" group-title="",Rheinmain TV
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" tvg-country="DE" tvg-url="" group-title="Germany",RNF
+#EXTINF:-1 tvg-id="RNF.de" tvg-name="RNF" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" tvg-url="" group-title="",RNF (1080p)
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png" tvg-country="DE" tvg-url="" group-title="Germany",RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png" tvg-country="DE" tvg-url="" group-title="Germany",RTL Nitro
-http://188.35.9.5:10020/stolen/479d/hot.dll
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-language="German" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png" tvg-country="DE" tvg-url="" group-title="Germany",RTL Plus
-http://188.35.9.5:10020/stolen/480c/hot.dll
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/2000px-RTL2_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="Germany",RTL2
-http://5.135.92.133:52841/out/u/119_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" tvg-country="DE" tvg-url="" group-title="Germany",Saarland Fernsehen 1
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-name="Saarland Fernsehen 1" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" tvg-url="" group-title="",Saarland Fernsehen 1 (1080p)
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" tvg-country="DE" tvg-url="" group-title="Germany",Saarland Fernsehen 2
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-name="Saarland Fernsehen 2" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" tvg-url="" group-title="",Saarland Fernsehen 2 (720p)
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/kn1DHZq.gif" tvg-country="DE" tvg-url="" group-title="Germany",Santhora TV
+#EXTINF:-1 tvg-id="SanthoraTV.de" tvg-name="Santhora TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/kn1DHZq.gif" tvg-url="" group-title="",Santhora TV (720p)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sonnenklar.de" tvg-name="Sonnenklar.TV" tvg-language="German" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" tvg-country="DE" tvg-url="" group-title="Germany",Sonnenklar.TV
+#EXTINF:-1 tvg-id="Sonnenklar.de" tvg-name="Sonnenklar.TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" tvg-url="" group-title="",Sonnenklar.TV (1080p)
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Mrj4D9n.png" tvg-country="DE" tvg-url="" group-title="Germany",Sonus FM
+#EXTINF:-1 tvg-id="SonusFM.de" tvg-name="Sonus FM" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Mrj4D9n.png" tvg-url="" group-title="Music",Sonus FM (720p)
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Mrj4D9n.png" tvg-country="DE" tvg-url="" group-title="Germany",Sonus FM TV
-http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/G1mgVMD.png" tvg-country="DE" tvg-url="" group-title="Germany",Sophia TV
-https://edge-1192-ch-gv.filmon.com/live/4721.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/jyMedaF.png" tvg-country="DE" tvg-url="" group-title="Germany",Sophia TV
+#EXTINF:-1 tvg-id="SonusFM.de" tvg-name="Sonus FM" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="Music",Sonus FM
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.de" tvg-name="Sophia TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/jyMedaF.png" tvg-url="" group-title="Religious",Sophia TV
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-language="German" tvg-logo="https://i.imgur.com/GJApWEn.png" tvg-country="DE" tvg-url="" group-title="Germany",Sport 1
-https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",SR Fernsehen HD
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",SR Fernsehen (720p)
 http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",tagesschau 24
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Tele M1 HD
+#EXTINF:-1 tvg-id="TeleM1.de" tvg-name="Tele M1" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Tele M1
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/a8JgvKq.png" tvg-country="DE" tvg-url="" group-title="Germany",Tele Regional Passau 1
-http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",Telebasel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://www.portmann-media.com/wp-content/uploads/2015/06/telebasel.png" tvg-country="DE" tvg-url="" group-title="Germany",Telebasel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TeleBielingue
-https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TeleBärn HD
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TV Aktuell
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/GUBVccx.png" tvg-country="DE" tvg-url="" group-title="Germany",TV Halle
+#EXTINF:-1 tvg-id="teltowkanal.de" tvg-name="teltOwkanal" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/05UB2YT.png" tvg-url="" group-title="",TeltOwkanal (1080p)
+https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w432758340.m3u8?ref=www.teltowkanal.de
+#EXTINF:-1 tvg-id="teltowkanal.de" tvg-name="teltOwkanal" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/05UB2YT.png" tvg-url="" group-title="",TeltOwkanal (1080p)
+https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8?&ref=www.teltowkanal.de
+#EXTINF:-1 tvg-id="TVHalle.de" tvg-name="TV Halle" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/GUBVccx.png" tvg-url="" group-title="",TV Halle (720p)
 http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TV Mainfranken
-http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/927.png" tvg-country="DE" tvg-url="" group-title="Germany",TV Oberfranken
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TV Würzburg
+#EXTINF:-1 tvg-id="TVWurzburg.de" tvg-name="TV Würzburg" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",TV Würzburg (1080p)
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TVA
+#EXTINF:-1 tvg-id="TVA.de" tvg-name="TVA" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",TVA (1080p)
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg" tvg-country="DE" tvg-url="" group-title="Germany",TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TVA Ostbayern
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",TVO
+#EXTINF:-1 tvg-id="TVO.de" tvg-name="TVO" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",TVO (1080p)
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" tvg-country="DE" tvg-url="" group-title="Germany",Unserding
+#EXTINF:-1 tvg-id="Unserding.de" tvg-name="Unserding" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" tvg-url="" group-title="",Unserding (544p)
 https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Germany",VISIT-X.tv
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png" tvg-country="DE" tvg-url="" group-title="Germany",VOX
-http://5.135.92.133:52841/out/u/123_1.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" tvg-country="DE" tvg-url="" group-title="Germany",WDR
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" tvg-url="" group-title="",WDR Fernsehen (720p)
 https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-language="German" tvg-logo="https://i.imgur.com/0Vt9dtg.png" tvg-country="DE" tvg-url="" group-title="Germany",WDR
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" tvg-country="DE" tvg-url="" group-title="Germany",World Of Free Sports TV
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Freesports
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDFinfo [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDFneo [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
