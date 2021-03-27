@@ -1,7 +1,7 @@
 #EXTM3U
 //Romania Acestream 
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Pro TV
-acestream://a09ee2af4c9a2ecf29533762cb4d62619a4e830d
+acestream://b7d30c7fabda7d34801fe6f7d4513f7c9674a1fe
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Investigation Discovery
 acestream://9ccce635750ee7deaa7684166b7b3adc64242ceb
 #EXTINF:-1 tvg-id="" tvg-name="Film Cafe" tvg-language="Romania" tvg-logo="https://ewsat.com/img/FILM_CAFE.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Film Cafe
@@ -19,7 +19,7 @@ acestream://74edffde702fc17fb86d121f1d643a5df47a75f3
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Kanal D
 acestream://5b37fc3833ff8874feccc15a8476175f2a9dd22e
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 " tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
-acestream://f168cebe3acc12fb208f7950c3157045352c9109
+acestream://8c4b43dc274d54d061dce23f31f3d1063aaddb2b
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 1
 acestream://c6e7b0a6409e4714813a8f0221d06f3be73192c6
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 2
@@ -50,6 +50,11 @@ acestream://e02c49f4380617bd083d47e85ccf138e84d3c90c
 acestream://db0b81bdbfb2cd44ce92adff9192a5c97510989d
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1" tvg-language="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/1280px-Logo_Telekom_Sport_1_%282017%29.svg.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Telekom Sport 1
 acestream://1e29d6498b417e9c360a5d6cead322a9aef084f1
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Tv" tvg-language="Romania" tvg-logo="" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Realitatea Tv
+acestream://2d4b8ae7a4c402ad61c536ccc8e9d2ff494f2e51
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Tv" tvg-language="Romania" tvg-logo="" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Realitatea Tv
+acestream://2d4b8ae7a4c402ad61c536ccc8e9d2ff494f2e51
+
 
 
 //Romania Github
@@ -121,7 +126,7 @@ http://webmobile.xdev.ro:81/tv6/playlist.m3u8
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Kiss TV (576p)
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
-#EXTINF:-1 tvg-id="LookSport.ro" tvg-name="LookSport" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",LookSport (404p)
+#EXTINF:-1 tvg-id="Look.ro" tvg-name="LookSport" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",LookSport (404p)
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
 #EXTINF:-1 tvg-id="LookSport2.ro" tvg-name="LookSport 2" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",LookSport 2 (404p)
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
