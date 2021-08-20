@@ -1,7 +1,7 @@
 #EXTM3U
 //Romania Acestream 
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Pro TV
-acestream://b9b52cdb3bf2ee5724a15cdc23b8a4b3499d8b2c
+acestream://169d65780eb26f69bbc8590b022187c8cdbe945c
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Investigation Discovery
 acestream://9ccce635750ee7deaa7684166b7b3adc64242ceb
 #EXTINF:-1 tvg-id="" tvg-name="Film Cafe" tvg-language="Romania" tvg-logo="https://ewsat.com/img/FILM_CAFE.png" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Film Cafe
