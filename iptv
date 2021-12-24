@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1 (720p) [Offline]
+https://iptv-all.lanesh4d0w.repl.co/romania/a1
+
+
 //Romania Acestream 
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Pro TV
 acestream://76e159df16e54b90f855a84839e7c83c2e0ea586
