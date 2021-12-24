@@ -19,7 +19,7 @@ acestream://74edffde702fc17fb86d121f1d643a5df47a75f3
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-language="Romania" tvg-country="RO" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Kanal D
 acestream://0976f71c4cdbe1d651580012e8e542e815320818
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 " tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",Antena 1
-acestream://d95cd805ddedb031596174a6224da4f8c1a9422b
+acestream://3ef65d98198db3e37bc9f05ad2f64413b5fc6dba
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 1
 acestream://c6e7b0a6409e4714813a8f0221d06f3be73192c6
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-language="Romania" tvg-country="RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" tvg-url="http://epg.streamstv.me/epg/guide-romania.xml" group-title="Romania",HBO 2
